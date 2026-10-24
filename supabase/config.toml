@@ -1,0 +1,5 @@
+[functions.qloo-proxy]
+verify_jwt = false
+
+[functions.qloo-health]
+verify_jwt = false
